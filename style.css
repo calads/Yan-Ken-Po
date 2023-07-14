@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+	background: #ffc;
+	font-size: 1.2em;
+	font-family: 'Open Sans', Sans-serif;
+}
+
+#game-zone {
+	background: rgba(0, 50, 0, 0.8);
+	display: flex;
+	color: white;
+	border-radius: 1em;
+}
+#game-zone figure {
+	flex: 1;
+}
+
+#result {
+	background: rgba(0, 0, 50, 0.8);
+	color: white;
+	border-radius: 1em;
+}
+#score {
+	background: rgba(0, 255, 0, 0.3);
+	color: black;
+	border-radius: 1em;
+}
